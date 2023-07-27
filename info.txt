@@ -1,0 +1,6 @@
+cpanel database name : priyuklr_news
+cpanel database username: newsdatabase
+cpanel database password: newsdatabase#1
+
+user eamil: admin@gmail.com
+password: 1234
